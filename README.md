@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my c0d3z</h1>
-<p align="center">Right now, I'm <a href="https://pocketmechatronics.com">building interfaces</a>, <a href="https://drohen.com/audio-tools">audio experiments</a>, and <a href="https://rivalium.com">streaming tools</a> for <a href="https://javascript.best">the web</a>. I enjoy writing about it too.</p>
+<p align="center">Right now, I'm writing <a href="https://www.javascript.best">javascript</a> and <a href="https://pocketmechatronics.com">building interfaces</a> and <a href="https://drohen.com/audio-tools">audio experiments</a> for <a href="https://javascript.best">the web</a>. I enjoy writing about it too.</p>
 <p align="center">
   <img width="640" height="360" src="https://raw.githubusercontent.com/drohen/drohen/main/anim-sm.gif">
 </p>
